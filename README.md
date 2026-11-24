@@ -2,9 +2,9 @@
 
 make.fun bounty entry: **u-ronigrv-the-one-line-laugh-7ccca46f** — one funny line, a single sentence of at most 200 characters.
 
-[![The One-Line Laugh badge](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f)
-[![Rank badge](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/clever-puffin-69/u-ronigrv-the-one-line-laugh-7ccca46f/rank.svg)](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f)
-[![Reward badge](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/clever-puffin-69/u-ronigrv-the-one-line-laugh-7ccca46f/reward.svg)](https://make.fun/competitions/u-ronigrv-the-one-line-laugh-7ccca46f)
+[![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/arianda17/u-ronigrv-the-one-line-laugh-7ccca46f/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/arianda17/u-ronigrv-the-one-line-laugh-7ccca46f/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
 ## The winning line
 
